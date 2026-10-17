@@ -1,4 +1,8 @@
----
+Hex--Proxy Xos
+ff
+Headshot
+
+-
 manufacturer: 
     - oppo
 
